@@ -1,0 +1,9 @@
+[submodule "Homework_1"]
+	path = Homework_1
+	url = https://github.com/LinaTrukanaviciute/Homework_1.git
+[submodule "Homework_2"]
+	path = Homework_2
+	url = https://github.com/LinaTrukanaviciute/Homework_2.git
+[submodule "Homework_3"]
+	path = Homework_3
+	url = https://github.com/LinaTrukanaviciute/Homework_3.git
