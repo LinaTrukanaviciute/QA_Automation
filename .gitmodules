@@ -10,3 +10,9 @@
 [submodule "Homework_4"]
 	path = Homework_4
 	url = https://github.com/LinaTrukanaviciute/Homework_4.git
+[submodule "QA_Automation"]
+	path = QA_Automation
+	url = https://github.com/LinaTrukanaviciute/QA_Automation
+[submodule "QA_Module_3_Final_Project"]
+	path = QA_Module_3_Final_Project
+	url = https://github.com/LinaTrukanaviciute/QA_Module_3_Final_Project
